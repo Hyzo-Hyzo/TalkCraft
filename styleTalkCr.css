@@ -30,7 +30,12 @@ nav ul li a {
     text-decoration-color: #21ff21;
 }
 
-
+.course-type {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
 
 #parallax-world-of-ugg h2{
   font-family: 'Oswald', sans-serif;
